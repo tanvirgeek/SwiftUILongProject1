@@ -13,6 +13,7 @@
 		EBD0BFE0250A5BA300886B61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBD0BFDF250A5BA300886B61 /* Assets.xcassets */; };
 		EBD0BFE3250A5BA300886B61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBD0BFE2250A5BA300886B61 /* Preview Assets.xcassets */; };
 		EBD0BFE6250A5BA300886B61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBD0BFE4250A5BA300886B61 /* LaunchScreen.storyboard */; };
+		EBDD0E1F250B1D3900502FBD /* KeyBoardHiding.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBDD0E1E250B1D3900502FBD /* KeyBoardHiding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EBD0BFE2250A5BA300886B61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EBD0BFE5250A5BA300886B61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EBD0BFE7250A5BA300886B61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBDD0E1E250B1D3900502FBD /* KeyBoardHiding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyBoardHiding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				EBD0BFE4250A5BA300886B61 /* LaunchScreen.storyboard */,
 				EBD0BFE7250A5BA300886B61 /* Info.plist */,
 				EBD0BFE1250A5BA300886B61 /* Preview Content */,
+				EBDD0E1E250B1D3900502FBD /* KeyBoardHiding.swift */,
 			);
 			path = SwiftUIPractice37;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				EBD0BFDA250A5BA200886B61 /* AppDelegate.swift in Sources */,
 				EBD0BFDC250A5BA200886B61 /* SceneDelegate.swift in Sources */,
 				EBD0BFDE250A5BA200886B61 /* ContentView.swift in Sources */,
+				EBDD0E1F250B1D3900502FBD /* KeyBoardHiding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
